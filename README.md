@@ -3,4 +3,5 @@
 1. Atividade para calculo de desconto.
 2. Atividade conversor de Celsius para fahrenheit.
 3. Atividade calculo de notas.
+4. Atividae par e impar
 
